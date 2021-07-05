@@ -1,3 +1,5 @@
+Forked from: [https://github.com/Kreditorforeningens-Driftssentral-DA/ansible-collection-hashicluster](https://github.com/Kreditorforeningens-Driftssentral-DA/ansible-collection-hashicluster)
+
 # CNI
 Installation of CNI plugins: [GitHub]("https://github.com/containernetworking/plugins")
 
